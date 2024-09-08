@@ -8,7 +8,7 @@
 ## Iniciando o projeto
 
 ```bash
-$  git clone https://github.com/roncon06/MagicApi.git
+$  git clone https://github.com/ajprando/magic-api
 ```  
 
 ## Configurando a aplicação:
